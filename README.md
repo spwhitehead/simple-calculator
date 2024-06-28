@@ -1,2 +1,3 @@
-# simple-calculator
-A basic calculator app built using React.
+# Simple Calculator
+
+Just a simple calculator built with React
